@@ -108,8 +108,8 @@ section {
   padding: var(--spacing) var(--spacing-m);
   width: 90vw;
   max-width: 720px;
-  margin: 200px auto;
-  margin-bottom: 0;
+  margin: 100px auto;
+  margin-bottom: 100px auto;
   height: var(--box-height);
   border-radius: var(--spacing);
   box-shadow: 0 30px 56px 6px rgba(0, 0, 0, 0.1);
